@@ -1,0 +1,35 @@
+h1{
+    font-size: 40px;
+    font-style: italic;
+    color: brown;
+    background-color: lightyellow;
+    display: inline-block;
+}
+.input-value{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 15px;
+}
+.input-value label{
+    flex-basis: 17%;
+    font-size: 20px;
+}
+.input-value input{
+    width: 22%;
+    height: 23px;
+    margin-right: 65%;
+}
+.btn{
+    padding-left: 14.5%;
+}
+button{
+    margin: 0px 8px;
+    padding: 7px 0px;
+    width: 10.7%;
+    box-shadow: 1px 1px 2px black;
+    font-size: 14px;
+}
+h2{
+    color: darkgreen;
+    font-size: 24px;
+}
